@@ -1,0 +1,12 @@
+langchain-openai
+langchain-core
+streamlit
+dotenv
+huggingface-hub
+numpy
+psutil
+safetensors
+torch
+filelock
+tokenizers
+-e .
